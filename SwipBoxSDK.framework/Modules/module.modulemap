@@ -1,11 +1,3 @@
-framework module SwipBoxSDK {
-  umbrella header "SwipBoxSDK.h"
-
-  export *
-  module * { export * }
-}
-
-module SwipBoxSDK.Swift {
-    header "SwipBoxSDK-Swift.h"
-    requires objc
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad216f1d3c2327d8039cc312fbe6a7f97296213b392767f4657adaec493cb673
+size 180
